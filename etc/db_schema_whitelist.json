@@ -1,0 +1,8 @@
+{
+    "mm_webforms_form": {
+        "column": {
+            "is_zapier_webhook_enabled": true,
+            "zapier_webhook_url": true
+        }
+    }
+}
