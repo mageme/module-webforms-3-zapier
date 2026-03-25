@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mageme/module-webforms-3-zapier.svg)](https://packagist.org/packages/mageme/module-webforms-3-zapier)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/mageme/module-webforms-3-zapier.svg)](https://packagist.org/packages/mageme/module-webforms-3-zapier)
-[![License](https://img.shields.io/packagist/l/mageme/module-webforms-3-zapier.svg)](https://mageme.com/license/)
+[![License: Proprietary](https://img.shields.io/badge/license-proprietary-blue.svg)](https://mageme.com/license/)
 
 Connect Magento 2 forms to 7000+ apps through Zapier. This free add-on for [MageMe WebForms](https://mageme.com/magento-2-form-builder.html) sends form submission data to Zapier webhooks in real time — giving you unlimited automation possibilities without writing code.
 
