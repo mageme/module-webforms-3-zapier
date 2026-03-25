@@ -3,7 +3,7 @@
     "description": "Zapier integration add-on for WebForms Pro 3",
     "type": "magento2-module",
     "version": "1.0.1",
-    "license": "https://mageme.com/license/",
+    "license": "proprietary",
     "homepage": "https://mageme.com",
     "support": {
         "issues": "https://github.com/mageme/module-webforms-3-zapier/issues",
