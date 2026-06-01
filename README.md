@@ -1,8 +1,10 @@
-# Magento 2 Zapier Integration — MageMe WebForms
+# MageMe WebForms Zapier for Magento 2
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/mageme/module-webforms-3-zapier.svg)](https://packagist.org/packages/mageme/module-webforms-3-zapier)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/mageme/module-webforms-3-zapier.svg)](https://packagist.org/packages/mageme/module-webforms-3-zapier)
-[![License: Proprietary](https://img.shields.io/badge/license-proprietary-blue.svg)](https://mageme.com/license/)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/mageme/module-webforms-3-zapier.svg?style=flat-square)](https://packagist.org/packages/mageme/module-webforms-3-zapier)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/mageme/module-webforms-3-zapier.svg?style=flat-square)](https://packagist.org/packages/mageme/module-webforms-3-zapier)
+[![Magento](https://img.shields.io/badge/Magento-2.4.x-EE672F.svg?style=flat-square)](https://magento.com)
+[![PHP](https://img.shields.io/badge/PHP-7.4%20–%208.5-777BB4.svg?style=flat-square)](https://php.net)
+[![License](https://img.shields.io/badge/license-MageMe%20EULA-blue.svg?style=flat-square)](https://mageme.com/license/)
 
 Connect Magento 2 forms to 7000+ apps through Zapier. This free add-on for [MageMe WebForms](https://mageme.com/magento-2-form-builder.html) sends form submission data to Zapier webhooks in real time — giving you unlimited automation possibilities without writing code.
 
@@ -47,17 +49,21 @@ For direct CRM and marketing platform connections, check out these add-ons:
 - [Klaviyo](https://github.com/mageme/module-webforms-3-klaviyo) — build profiles and grow your email lists
 - [Mailchimp](https://github.com/mageme/module-webforms-3-mailchimp) — subscribe customers to audiences
 
-## About MageMe WebForms
+## Custom Magento development
 
-[MageMe WebForms](https://mageme.com/magento-2-form-builder.html) brings no-code form building to Magento 2. Whether you need a simple contact form or a complex multi-step workflow with conditional logic, file uploads, and automated notifications — WebForms handles it from the admin panel, with native integrations for popular CRM and marketing tools.
+Need a feature an extension doesn't cover, or a bespoke Magento build? MageMe takes on custom extension development and integration work.
 
-[Get MageMe WebForms for Magento 2](https://mageme.com/magento-2-form-builder.html)
+→ **[Custom Magento development](https://mageme.com/magento-services/custom-development)**
 
 ## Support
 
 - Documentation: [docs.mageme.com](https://docs.mageme.com)
-- Issue Tracker: [GitHub Issues](https://github.com/mageme/module-webforms-3-zapier/issues)
+- Bug reports and feature requests: [GitHub Issues](https://github.com/mageme/module-webforms-3-zapier/issues)
 
 ## License
 
-Proprietary. See [License](https://mageme.com/license/) for details.
+Governed by the **MageMe End User License Agreement** ([mageme.com/license](https://mageme.com/license/)). This add-on is distributed free of charge.
+
+---
+
+**MageMe WebForms** is a no-code form builder for Magento 2 — conditional logic, multi-step forms, file uploads, and CRM integrations. → [Get WebForms](https://mageme.com/magento-2-form-builder.html) · [Browse all extensions](https://mageme.com/extensions)
